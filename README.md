@@ -6,7 +6,7 @@ Estudio Desarrollo de Software en el ITLA, en República Dominicana 🇩🇴. Cr
 
 ## En qué estoy trabajando
 
-Diseño la base de datos PostgreSQL de una plataforma educativa. Una de las reglas que implementé impide cambiar las preguntas de una evaluación mientras está publicada. También escribo las migraciones y las pruebas SQL para que el equipo pueda reproducir y comprobar ese comportamiento.
+Diseño la base de datos PostgreSQL de una plataforma educativa. He implementado reglas y administración de usuarios para otorgar permisos y roles sobre la base de datos y asegurar su integridad. También escribo las migraciones y las pruebas SQL para que el equipo pueda reproducir y comprobar ese comportamiento.
 
 ## Proyectos destacados
 
